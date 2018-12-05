@@ -1,5 +1,5 @@
 ---
-id            : Quick start 
+id            : オーバービュー
 title         : 퀵スタット
 sidebar_label : 퀵スタット
 .
