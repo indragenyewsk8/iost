@@ -1,7 +1,7 @@
 ---
-タイプ           : Quick start 
-タイトル         : 퀵スタット
-サイドバーラベル  : 퀵スタット
+id            : Quick start 
+title         : 퀵スタット
+sidebar_label : 퀵スタット
 .
 .
 ## スマートな契約
